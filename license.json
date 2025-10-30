@@ -46,5 +46,17 @@
     "name": "Ｄｒ．ＮＥＢＵマスターズ",
     "version": "2005_1st",
     "barcode_data": "GBA6T2SOC5Z1J"
+  },
+  {
+    "internal_id": "2006_1st_license_1",
+    "name": "Ｍｋ．ジョニーマスターズ",
+    "version": "2006_1st",
+    "barcode_data": "GBAKRQJCRBGMX"
+  },
+  {
+    "internal_id": "2006_2nd_license_1",
+    "name": "むしつかいのあかし",
+    "version": "2006_2nd",
+    "barcode_data": "GBA8ITXWKDPMT"
   }
 ]
